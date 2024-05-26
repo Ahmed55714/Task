@@ -21,7 +21,7 @@ class LoginScreen extends StatelessWidget {
               child: Row(
                 children: [
                   HeaderTitle(
-                    title1: 'Register',
+                    title1: 'registration',
                     title2: 'to continue by Google account',
                   ),
                 ],
